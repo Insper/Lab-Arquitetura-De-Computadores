@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-12-16T14:21:02Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "maxTouch-EXT V1"
+        },
+        "Owner": "Marco Mello <marcoasma@insper.edu.br>",
+        "Size": {
+            "X": 35.56,
+            "Y": 53.34
+        }
+    }
+}

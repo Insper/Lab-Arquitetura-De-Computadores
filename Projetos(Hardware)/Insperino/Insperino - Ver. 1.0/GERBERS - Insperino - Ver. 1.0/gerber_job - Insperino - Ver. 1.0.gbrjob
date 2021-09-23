@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.7.0*%
+%TF.CreationDate,2018-03-15T14:00:46Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Marco Mello <marcoasma@insper.edu.br>*%
+%TJ.B_ID,Insperino PTH*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,88.900000*%
+%TJ.B_Size_Y,53.340000*%
+M02*

@@ -1,0 +1,33 @@
+Item;Valor;Componentes;Link 1
+Capacitor Eletrolítico;100uF/25V;C1;http://proesi.com.br/capacitor-eletrolitico-100uf-25v-105.html
+Capacitor Eletrolítico;100uF/25V;C2;http://proesi.com.br/capacitor-eletrolitico-100uf-25v-105.html
+Capacitor Cerâmico;100nF/50V;C3;http://proesi.com.br/capacitor-multicamada-100n-50v.html
+Capacitor Cerâmico;100nF/50V;C4;http://proesi.com.br/capacitor-multicamada-100n-50v.html
+Capacitor Cerâmico;100nF/50V;C5;http://proesi.com.br/capacitor-multicamada-100n-50v.html
+Capacitor Cerâmico;100nF/50V;C6;http://proesi.com.br/capacitor-multicamada-100n-50v.html
+Capacitor Cerâmico;100nF/50V;C7;http://proesi.com.br/capacitor-multicamada-100n-50v.html
+Capacitor Cerâmico;22pF/100V;C8;http://proesi.com.br/catalog/product/view/id/8100/s/capacitor-ceramico-disco-22pf-100v-5mm/
+Capacitor Cerâmico;22pF/100V;C9;http://proesi.com.br/catalog/product/view/id/8100/s/capacitor-ceramico-disco-22pf-100v-5mm/
+Diodo;1N4001;D1;http://proesi.com.br/1n4004-diodo.html
+Fusível;PTC RXE030 - 300mA/72V;F1;http://loja.multcomercial.com.br/fusivel-resetavel-rxef030-ptc-0-3a-72v-polyswitch-termistor-cod-loja-3603.html
+Regulador de Tensão;LM7805;IC1;http://proesi.com.br/lm7805-circuito-integrado-to-220-componente-eletronico-loja-virtual.html
+Regulador de Tensão;MCP1700-33;IC2;https://br.mouser.com/ProductDetail/Microchip-Technology/MCP1700-3302E-TO?qs=%2fha2pyFaduhrr5FzhAbjuYCo3EycI63kWBr%2fEaafSh4%3d
+Microcontrolador;ATMEGA328P-PU;IC3;https://br.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATMEGA328P-PU?qs=%2fha2pyFaduhQ%252bjznIsBMMPRoEjEGcJxYuEuCd0kVlpy%252ba5HItpSlwA%3d%3d
+Conector Fêmea Jack-P4;Jack P4;J1;http://proesi.com.br/jack-dc-005-j4-p4-dc-femea-2-1mm-p-solda-pci.html
+Barra de Pinos;2x3 Pinos;J2;http://proesi.com.br/barra-de-pinos-dupla-2x40x11-2-180.html
+Barra de Pinos;6 Pinos;J3;http://proesi.com.br/barra-de-pinos-1x40x11-2-180.html
+Barra de Pinos;12 Pinos;J4;http://proesi.com.br/barra-de-pinos-1x40x11-2-180.html
+Barra de Pinos;12 Pinos;J5;http://proesi.com.br/barra-de-pinos-1x40x11-2-180.html
+Headers Arduino;6 Pinos;J6;https://www.usinainfo.com.br/barras-de-pinos/barra-de-6-pinos-femea-conector-empilhavel-2528.html?search_query=barra+de+pinos&results=78
+Headers Arduino;6 Pinos;J7;https://www.usinainfo.com.br/barras-de-pinos/barra-de-6-pinos-femea-conector-empilhavel-2528.html?search_query=barra+de+pinos&results=78
+Headers Arduino;8 Pinos;J8;https://www.usinainfo.com.br/barras-de-pinos/barra-de-8-pinos-femea-conector-empilhavel-2529.html?search_query=barra+de+pinos&results=78
+Headers Arduino;8 Pinos;J9;https://www.usinainfo.com.br/barras-de-pinos/barra-de-8-pinos-femea-conector-empilhavel-2529.html?search_query=barra+de+pinos&results=78
+LED 5mm;Verde;LED1;http://proesi.com.br/led-difuso-5mm-verde.html
+LED 5mm;Vermelho;LED2;http://proesi.com.br/led-difuso-5mm-vermelho.html
+Resistor 1/4W;330R;R1;http://proesi.com.br/resistor-carbono-cr25-1-4w-330r.html
+Resistor 1/4W;10k;R2;http://proesi.com.br/resistor-carbono-cr25-1-4w-10k.html
+Resistor 1/4W;330R;R3;http://proesi.com.br/resistor-carbono-cr25-1-4w-330r.html
+Chave Táctil;6x6x5;S1;http://proesi.com.br/chave-tactil-kfc-a06-6x6x5mm-4t-180.html
+Cristal Oscilador;16MHz;Y1;http://proesi.com.br/cristal-oscilador-16mhz-16-000mhz-hc-49s.html
+Conversor USB/SERIAL;SparkFun USB UART Serial Breakout - CY7C65213;;https://www.sparkfun.com/products/13830?_ga=2.159165502.586719604.1517398396-192118502.1517240593
+Placa PCB;Griffus;;http://www.griffuspcb.com.br/

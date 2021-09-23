@@ -1,0 +1,1 @@
+# ArqSAME70Comp

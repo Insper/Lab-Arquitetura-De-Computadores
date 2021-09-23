@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/MarcoASMA/Desktop/subindo Git/maxTouch-EXT-V1/Arquivos Eagle/maxTouch-EXT V1.sch at 16/12/2019 11:21
+
+Qty Value Device                           Package                 Parts  Description                                                                                                      PROD_ID    VALUE
+1         CONN_01                          1X01                    J6     Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                 
+1         CONN_02                          1X02                    J5     Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                  
+1         CONN_08"                         1X08                    J3     Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections  CONN-08438      
+1         CONN_10X2                        2X10                    J4     Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                  
+2         CONN_18SILK                      1X18                    J1, J2 Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                  
+1         V_REG_LM1117SOT223               SOT223                  U1     Voltage Regulator LM1117                                                                                         VREG-08170      
+1   0.1uF 0.1UF-KIT-EZ-50V-20%             CAP-PTH-SMALL-KIT       C4     0.1µF ceramic capacitors                                                                                         CAP-08370  0.1uF
+1   100uF 100UF-POLAR-25V-20%(ELEC)        PANASONIC_D             C1     100µF polarized capacitors                                                                                       CAP-12547  100uF
+1   100uF 100UF-POLAR-RADIAL-2.5MM-25V-20% CPOL-RADIAL-2.5MM-6.5MM C3     100µF polarized capacitors                                                                                       CAP-08439  100uF
+1   10uF  CAP-0805                         0805                    C2                                                                                                                                      
