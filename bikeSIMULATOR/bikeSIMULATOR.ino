@@ -64,7 +64,16 @@ void setup() {
   display.print("  4.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   //
-  
+
+  //Teste PInSensor
+  Serial.println("Teste PInSensor");
+  for(int i = 0; i<10; i++)
+  {
+  digitalWrite(sensor, LOW);
+    delay(500);
+    digitalWrite(sensor, HIGH);
+    delay(500);
+  }
   
 }
 
@@ -80,6 +89,7 @@ void loop() {
     // turn LED on:
     agora = millis();
   display.print("R 5.5");
+  Serial.println("R 5.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
     
@@ -94,6 +104,7 @@ void loop() {
 
 agora = millis();
   display.print("R 4.5");
+  Serial.println("R 4.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -108,6 +119,7 @@ agora = millis();
 
 agora = millis();
   display.print("R 3.5");
+  Serial.println("R 3.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -122,6 +134,7 @@ agora = millis();
 
 agora = millis();
   display.print("R 2.5");
+  Serial.println("R 2.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -136,6 +149,7 @@ agora = millis();
 
 agora = millis();
   display.print("R 1.5");
+  Serial.println("R 1.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -150,6 +164,7 @@ agora = millis();
 
 agora = millis();
   display.print("R 0.5");
+  Serial.println("R 0.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -164,6 +179,7 @@ agora = millis();
 
   agora = millis();
   display.print("R 1.5");
+  Serial.println("R 1.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -179,6 +195,7 @@ agora = millis();
 
   agora = millis();
   display.print("R 2.5");
+  Serial.println("R 2.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -194,6 +211,7 @@ agora = millis();
 
   agora = millis();
   display.print("R 3.5");
+  Serial.println("R 3.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -208,6 +226,7 @@ agora = millis();
 
 agora = millis();
   display.print("R 4.5");
+  Serial.println("R 4.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(millis() < (agora + 5000)) {
         
@@ -225,20 +244,22 @@ agora = millis();
     // turn LED off:
     digitalWrite(ledPin, LOW);
 
-    agora = millis();
+   //agora = millis();
   display.print("C 5.5");
+  Serial.println("C 5.5");
   display.decimalOn();// --- Turn the decimal on for all displays on bus
   while(digitalRead(buttonPin) == HIGH)
   {
-  while(millis() < (agora + 5000)) {
+   // agora = millis();
+  //while(millis() < (agora + 5000)) {
     
     //if (digitalRead(buttonPin) == HIGH) break;
-    
+    //Serial.println("C 5.5");
     digitalWrite(sensor, LOW);
     delayMicroseconds(10);
     digitalWrite(sensor, HIGH);
     delay(1045);
-  }
+  //}
   }
   }
   
