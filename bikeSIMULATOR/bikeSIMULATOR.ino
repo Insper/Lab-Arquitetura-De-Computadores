@@ -66,6 +66,7 @@ void setup() {
   //
 
   //Teste PInSensor
+  /*
   Serial.println("Teste PInSensor");
   for(int i = 0; i<10; i++)
   {
@@ -74,6 +75,7 @@ void setup() {
     digitalWrite(sensor, HIGH);
     delay(500);
   }
+  */
   
 }
 
