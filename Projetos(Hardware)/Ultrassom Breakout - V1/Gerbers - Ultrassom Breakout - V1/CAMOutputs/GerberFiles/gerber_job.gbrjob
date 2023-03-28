@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-03-28T20:54:56Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "HCS04Breakout"
+        },
+        "Owner": "Marco Mello <marcoasma@insper.edu.br>",
+        "Size": {
+            "X": 20.066,
+            "Y": 13.208
+        }
+    }
+}
