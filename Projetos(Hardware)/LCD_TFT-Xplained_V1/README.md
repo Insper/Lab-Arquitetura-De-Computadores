@@ -1,1 +1,1 @@
-### ![Silks](LCD_TFT-Xplained_V0.png)
+### ![Silks](LCD_TFT-Xplained_V1.png)
