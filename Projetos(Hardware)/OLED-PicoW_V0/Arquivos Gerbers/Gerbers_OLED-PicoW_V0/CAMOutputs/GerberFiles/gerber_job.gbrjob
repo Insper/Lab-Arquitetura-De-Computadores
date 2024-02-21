@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-01-29T13:37:18Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "OLED-PicoW_V0"
+        },
+        "Owner": "Marco Mello <marcoasma@insper.edu.br>",
+        "Size": {
+            "X": 104.14,
+            "Y": 78.74
+        }
+    }
+}
